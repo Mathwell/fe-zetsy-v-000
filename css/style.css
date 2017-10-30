@@ -85,7 +85,7 @@ img:hover {
 
 .column {
 	padding: 10px;
-	width: 25%;
+	width: 33%;
 	display: inline;
 	float: left;
 }
@@ -96,9 +96,6 @@ img:hover {
   -moz-box-sizing: border-box;
 }
 
-.columb a {
-	visibility: hidden;
-}
 
 .clearfix:after {
   content: ".";
